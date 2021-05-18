@@ -94,7 +94,7 @@ class CustomDialog extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
       ),
       elevation: 0,
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.transparent,
       child: dialogContent(context),
     );
   }
